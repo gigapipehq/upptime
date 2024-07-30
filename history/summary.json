@@ -4,9 +4,9 @@
     "url": "$DEV_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -16,6 +16,7 @@
     "timeMonth": 566,
     "timeYear": 566,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-07-15": 10,
       "2024-07-10": 7
     }
@@ -25,9 +26,9 @@
     "url": "$DEV_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -37,6 +38,7 @@
     "timeMonth": 625,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-07-10": 7
     }
   },
@@ -45,9 +47,9 @@
     "url": "$DEV_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -57,6 +59,7 @@
     "timeMonth": 515,
     "timeYear": 515,
     "dailyMinutesDown": {
+      "2024-07-30": 0,
       "2024-07-10": 7
     }
   },
