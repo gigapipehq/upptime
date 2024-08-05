@@ -159,9 +159,9 @@
     "url": "$TRIAL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -170,16 +170,18 @@
     "timeWeek": 286,
     "timeMonth": 275,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "trials-auth",
     "url": "$TRIAL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -188,16 +190,18 @@
     "timeWeek": 254,
     "timeMonth": 262,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "trials-qryn",
     "url": "$TRIAL_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -206,16 +210,18 @@
     "timeWeek": 243,
     "timeMonth": 259,
     "timeYear": 259,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   },
   {
     "name": "trials-app",
     "url": "$TRIAL_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -224,6 +230,8 @@
     "timeWeek": 264,
     "timeMonth": 274,
     "timeYear": 274,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-05": 0
+    }
   }
 ]
