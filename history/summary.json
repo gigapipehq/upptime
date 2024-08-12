@@ -159,18 +159,19 @@
     "url": "$TRIAL_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-api",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 278,
     "timeDay": 133,
     "timeWeek": 289,
     "timeMonth": 278,
     "timeYear": 278,
     "dailyMinutesDown": {
+      "2024-08-12": 1,
       "2024-08-05": 11
     }
   },
@@ -179,10 +180,10 @@
     "url": "$TRIAL_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
     "time": 275,
@@ -191,6 +192,7 @@
     "timeMonth": 273,
     "timeYear": 275,
     "dailyMinutesDown": {
+      "2024-08-12": 1,
       "2024-08-05": 11
     }
   },
@@ -199,9 +201,9 @@
     "url": "$TRIAL_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -211,6 +213,7 @@
     "timeMonth": 244,
     "timeYear": 262,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-08-05": 11
     }
   },
@@ -219,9 +222,9 @@
     "url": "$TRIAL_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "trials-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
@@ -231,6 +234,7 @@
     "timeMonth": 258,
     "timeYear": 264,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-08-05": 11
     }
   }
