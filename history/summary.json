@@ -96,18 +96,20 @@
     "url": "$US_PROD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 395,
-    "timeWeek": 238,
-    "timeMonth": 371,
-    "timeYear": 298,
-    "dailyMinutesDown": {}
+    "time": 330,
+    "timeDay": 1826,
+    "timeWeek": 616,
+    "timeMonth": 464,
+    "timeYear": 330,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "us-prod-auth",
