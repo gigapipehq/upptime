@@ -1,7 +1,7 @@
 url: $US_PROD_API
-status: up
-code: 200
-responseTime: 395
-lastUpdated: 2024-10-08T23:04:30.993Z
+status: down
+code: 502
+responseTime: 3257
+lastUpdated: 2024-10-09T16:05:23.252Z
 startTime: 2024-07-09T21:00:45.471Z
 generator: Upptime <https://github.com/upptime/upptime>
