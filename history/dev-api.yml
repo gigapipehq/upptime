@@ -1,7 +1,7 @@
 url: $DEV_API
-status: up
-code: 200
-responseTime: 695
-lastUpdated: 2024-10-10T21:03:36.888Z
+status: down
+code: 502
+responseTime: 18824
+lastUpdated: 2024-10-10T22:37:57.799Z
 startTime: 2024-07-09T21:00:42.937Z
 generator: Upptime <https://github.com/upptime/upptime>
