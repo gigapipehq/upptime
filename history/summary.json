@@ -99,10 +99,10 @@
     "url": "$US_PROD_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-prod-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 325,
@@ -111,6 +111,7 @@
     "timeMonth": 466,
     "timeYear": 325,
     "dailyMinutesDown": {
+      "2024-10-15": 0,
       "2024-10-11": 7,
       "2024-10-09": 11
     }
@@ -120,10 +121,10 @@
     "url": "$US_PROD_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-prod-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 237,
@@ -132,6 +133,7 @@
     "timeMonth": 243,
     "timeYear": 237,
     "dailyMinutesDown": {
+      "2024-10-15": 0,
       "2024-10-11": 7,
       "2024-08-19": 10
     }
@@ -141,10 +143,10 @@
     "url": "$US_PROD_QRYN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-prod-qryn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.93%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.92%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 230,
@@ -153,6 +155,7 @@
     "timeMonth": 215,
     "timeYear": 230,
     "dailyMinutesDown": {
+      "2024-10-15": 0,
       "2024-10-11": 7,
       "2024-08-19": 10
     }
