@@ -81,10 +81,10 @@
     "url": "$DEV_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
@@ -92,7 +92,9 @@
     "timeWeek": 156,
     "timeMonth": 155,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 1
+    }
   },
   {
     "name": "us-prod-api",
@@ -165,9 +167,9 @@
     "url": "$US_PROD_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-prod-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,7 +178,9 @@
     "timeWeek": 850,
     "timeMonth": 310,
     "timeYear": 193,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "trials-api",
