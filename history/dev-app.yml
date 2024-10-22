@@ -1,7 +1,7 @@
 url: $DEV_APP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-22T04:13:33.243Z
+status: up
+code: 200
+responseTime: 238
+lastUpdated: 2024-10-22T04:26:07.581Z
 startTime: 2024-07-09T21:00:45.092Z
 generator: Upptime <https://github.com/upptime/upptime>
