@@ -1,7 +1,7 @@
 url: $US_PROD_AUTH
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-02T04:04:34.459Z
+status: up
+code: 200
+responseTime: 365
+lastUpdated: 2024-11-02T04:26:51.811Z
 startTime: 2024-07-09T21:00:45.920Z
 generator: Upptime <https://github.com/upptime/upptime>
