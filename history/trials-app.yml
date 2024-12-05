@@ -1,7 +1,7 @@
 url: $TRIAL_APP
-status: up
-code: 200
-responseTime: 200
-lastUpdated: 2024-12-04T23:04:27.269Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-12-05T15:45:02.815Z
 startTime: 2024-07-09T21:00:48.981Z
 generator: Upptime <https://github.com/upptime/upptime>
