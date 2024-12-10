@@ -1,7 +1,7 @@
 url: $TRIAL_AUTH
-status: down
-code: 502
-responseTime: 14500
-lastUpdated: 2024-12-10T11:26:53.008Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2024-12-10T11:33:53.959Z
 startTime: 2024-07-09T21:00:47.868Z
 generator: Upptime <https://github.com/upptime/upptime>
