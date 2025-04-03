@@ -127,9 +127,9 @@
     "url": "$DEV_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -139,6 +139,7 @@
     "timeMonth": 181,
     "timeYear": 190,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2024-10-22": 13
     }
   },
@@ -238,9 +239,9 @@
     "url": "$US_PROD_APP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "us-prod-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -250,6 +251,7 @@
     "timeMonth": 172,
     "timeYear": 188,
     "dailyMinutesDown": {
+      "2025-04-03": 0,
       "2024-10-22": 12
     }
   },
