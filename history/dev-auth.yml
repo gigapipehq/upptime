@@ -1,7 +1,7 @@
 url: $DEV_AUTH
-status: up
-code: 200
-responseTime: 741
-lastUpdated: 2025-04-22T23:04:24.411Z
+status: down
+code: 502
+responseTime: 18900
+lastUpdated: 2025-04-23T13:06:31.269Z
 startTime: 2024-07-09T21:00:43.670Z
 generator: Upptime <https://github.com/upptime/upptime>
