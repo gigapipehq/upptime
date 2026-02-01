@@ -1,7 +1,7 @@
 url: $US_PROD_APP
-status: down
-code: 403
-responseTime: 102
-lastUpdated: 2026-02-01T17:25:43.928Z
+status: up
+code: 200
+responseTime: 233
+lastUpdated: 2026-02-01T17:39:56.755Z
 startTime: 2024-07-09T21:00:46.848Z
 generator: Upptime <https://github.com/upptime/upptime>
