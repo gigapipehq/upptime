@@ -1,7 +1,7 @@
 url: $DEV_QRYN
-status: up
-code: 401
-responseTime: 396
-lastUpdated: 2026-02-02T23:08:03.106Z
+status: down
+code: 502
+responseTime: 595
+lastUpdated: 2026-02-03T09:34:21.597Z
 startTime: 2024-07-09T21:00:44.381Z
 generator: Upptime <https://github.com/upptime/upptime>
